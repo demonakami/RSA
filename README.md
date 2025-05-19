@@ -23,3 +23,4 @@ Sử dụng thuật toán hash SHA-256
 Sử dụng padding PSS để tăng cường bảo mật
 
 Ứng dụng này cung cấp giao diện đồ họa dễ sử dụng để thực hiện quá trình truyền file an toàn với xác thực bằng chữ ký số.
+![image](https://github.com/user-attachments/assets/e0b50300-c6fc-4c83-8429-a6e479c3e949)
